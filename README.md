@@ -128,30 +128,4 @@ http://127.0.0.1:5000/
 
 ---
 
-## 👩‍💻 Autores
 
-- **Huaynate Romero, Milagros Isabel**  
-- **Luera Collazos, Jeremy Alessandro**  
-- **Flores Pari, Alina Nicole**  
-- **Lopez Padilla, Enzo Fabrizio**  
-- **Rodriguez Perez, Javier André**
-
-📍 Facultad de Ingeniería de Sistemas e Informática – UNMSM
-🌐 GitHub: [@milagros-hr](https://github.com/milagros-hr)
-
----
-
-## 🏁 Estado actual del proyecto
-
-✅ Implementado:
-
-* Registro/login de usuarios
-* Gestión de viajes
-* Visualización de rutas con Leaflet
-* Interfaz responsive para chofer
-
-🚧 Próximamente:
-
-* Confirmación en tiempo real de viajes
-* Sistema de precios dinámicos
-* Panel administrativo
